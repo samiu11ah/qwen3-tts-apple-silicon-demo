@@ -7,7 +7,7 @@ A simple, local voice-cloning, voice-design, and custom-voice generator powered 
 <!-- Add a screenshot or GIF of the app here once you have one, e.g.: -->
 <!-- ![App screenshot](screenshot.png) -->
 
-> 🖥️ On Windows or Linux with an NVIDIA GPU? Use the companion repo instead: [qwen3-tts-nvidia-demo](#https://github.com/samiu11ah/qwen3-tts-nvidia-demo.git)
+> 🖥️ On Windows or Linux with an NVIDIA GPU? Use the companion repo instead: [qwen3-tts-nvidia-demo](https://github.com/samiu11ah/qwen3-tts-nvidia-demo.git)
 
 ---
 
