@@ -1,0 +1,13 @@
+# Qwen3-TTS — MLX backend requirements (Apple Silicon only)
+#
+# Setup:
+#   python -m venv venv
+#   source venv/bin/activate
+#   pip install -r requirements_mlx.txt
+#   python mlx_app.py
+
+mlx>=0.19
+mlx-audio
+numpy
+soundfile
+gradio>=4.31
