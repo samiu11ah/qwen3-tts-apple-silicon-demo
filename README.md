@@ -2,10 +2,9 @@
 
 A simple, local voice-cloning, voice-design, and custom-voice generator powered by [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS), running entirely on your Mac using [MLX](https://github.com/ml-explore/mlx). No coding experience needed — just follow the steps below.
 
-▶️ **Watch the full setup walkthrough on YouTube:** [Insert your video link here]
+## 📺 Full Setup & Comparison Video
 
-<!-- Add a screenshot or GIF of the app here once you have one, e.g.: -->
-<!-- ![App screenshot](screenshot.png) -->
+[![Qwen3 TTS: The FREE ElevenLabs Alternative for AI Voice Cloning (Run Locally!)](https://img.youtube.com/vi/RPlN7pfs9tg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Qwen3 TTS: The FREE ElevenLabs Alternative for AI Voice Cloning (Run Locally!))
 
 > 🖥️ On Windows or Linux with an NVIDIA GPU? Use the companion repo instead: [qwen3-tts-nvidia-demo](https://github.com/samiu11ah/qwen3-tts-nvidia-demo.git)
 
