@@ -4,7 +4,7 @@ A simple, local voice-cloning, voice-design, and custom-voice generator powered 
 
 ## 📺 Full Setup & Comparison Video
 
-[![Qwen3 TTS: The FREE ElevenLabs Alternative for AI Voice Cloning (Run Locally!)](https://img.youtube.com/vi/RPlN7pfs9tg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Qwen3 TTS: The FREE ElevenLabs Alternative for AI Voice Cloning (Run Locally!))
+[![Qwen3 TTS: The FREE ElevenLabs Alternative for AI Voice Cloning (Run Locally!)](https://img.youtube.com/vi/RPlN7pfs9tg/maxresdefault.jpg)](https://www.youtube.com/watch?v=RPlN7pfs9tg)
 
 > 🖥️ On Windows or Linux with an NVIDIA GPU? Use the companion repo instead: [qwen3-tts-nvidia-demo](https://github.com/samiu11ah/qwen3-tts-nvidia-demo.git)
 
